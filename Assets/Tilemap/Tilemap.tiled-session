@@ -1,0 +1,30 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Tilemap_Flat.tsx": {
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Amaury/Documents/Phaser/Assets",
+    "last.imagePath": "C:/Users/Amaury/Documents/Phaser/Assets",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+    ],
+    "project": "Tilemap.tiled-project",
+    "recentFiles": [
+        "Tilemap_Flat.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
